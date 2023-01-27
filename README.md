@@ -1,2 +1,4 @@
-# git_project
+<<<<<<< master
 privet mor
+just testing github
+>>>>>>> main
